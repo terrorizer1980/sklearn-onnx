@@ -18,3 +18,4 @@ tqdm
 # docs/examples
 lightgbm
 matplotlib
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
